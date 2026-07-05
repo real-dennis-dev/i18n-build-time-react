@@ -222,7 +222,3 @@ MIT License
 **Built for teams that care about translation quality.**
 
 Happy internationalizing! 🌍
-
-```
-
-```
